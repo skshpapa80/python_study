@@ -2,7 +2,7 @@
 
 Python basic
 
-https://blog.naver.com/skshpapa80/222355503226
+https://skshpapa80.github.io/2017/08/03/Python-basic/
 
 Python GUI
 
