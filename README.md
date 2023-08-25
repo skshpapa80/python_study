@@ -9,4 +9,7 @@ Python Colab
 https://skshpapa80.blogspot.com/2021/06/colab.html
 
 Python GUI
+
+
+
 https://skshpapa80.blogspot.com/2023/03/pythontkinter-gui-02.html
