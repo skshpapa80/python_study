@@ -2,14 +2,12 @@
 
 Python basic
 
-https://skshpapa80-dev.blogspot.com/2017/08/python.html
+https://skshpapa80.github.io/2017/08/03/Python-basic/
 
 Python Colab
 
-https://skshpapa80-dev.blogspot.com/2021/06/colab.html
+https://skshpapa80.github.io/2021/06/17/Python-Colab/
 
 Python GUI
 
-
-
-https://skshpapa80-dev.blogspot.com/2023/03/pythontkinter-gui-02.html
+https://skshpapa80.github.io/2022/03/28/Python-Gui02/
