@@ -2,12 +2,12 @@
 
 Python basic
 
-https://blog.naver.com/skshpapa80/223353115669
+https://www.raycho12.pe.kr/2017/08/03/python-basic/
 
 Python Colab
 
-https://blog.naver.com/skshpapa80/223362204900
+https://www.raycho12.pe.kr/2024/02/22/google-drive-python-colab/
 
 Python GUI
 
-https://blog.naver.com/skshpapa80/223382602311
+https://www.raycho12.pe.kr/2018/03/30/python-tkinter-gui/
