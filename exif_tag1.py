@@ -14,6 +14,6 @@ for tag, value in meta_data.items():
 
 # exif 정보 출력
 print(taglabel)
-
+# 이미지 사이즈 출력
 print(img1.width, img1.height)
 
