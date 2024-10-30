@@ -15,8 +15,10 @@ Python Colab
 
 구글 드라이브에서 Python 을 사용하는 방법인 Colab 를 설정합니다. 
 
+https://codingplusplus.tistory.com/58
 
 Python GUI
 
 Python GUI 라이브러리 tkinter 내용입니다. 
 
+https://codingplusplus.tistory.com/39
