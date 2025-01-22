@@ -4,12 +4,11 @@ Python basic
 
 Python 공부하면서 만들어본 기초 소스
 
-https://raycho-dev.tistory.com/22
+
 
 Python Image Labrary 
 
-Image Info - https://raycho-dev.tistory.com/2 <br />
-exif tag read - https://raycho-dev.tistory.com/21
+Image info/ exif tag read - https://blog.naver.com/skshpapa80/223728149851
 
 Python Colab
 
