@@ -2,9 +2,7 @@
 
 Python basic
 
-Python 공부하면서 만들어본 기초 소스
-
-
+Python 공부하면서 만들어본 기초 소스 - https://blog.naver.com/skshpapa80/223734000735
 
 Python Image Labrary 
 
