@@ -1,3 +1,3 @@
 import time; 
 
-time.strftime("%a, %d %b %Y %H:%M:%S +0000", time.localtime(1334111089464))
+print(time.strftime("%a, %d %B %Y %H:%M:%S +0000", time.localtime(1042423794)))
