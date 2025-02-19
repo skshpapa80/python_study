@@ -12,7 +12,7 @@ Python Colab
 
 구글 드라이브에서 Python 을 사용하는 방법인 Colab 를 설정합니다. 
 
-
+https://blog.naver.com/skshpapa80/223765998481
 
 Python GUI
 
