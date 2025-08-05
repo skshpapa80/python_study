@@ -20,4 +20,4 @@ Python GUI
 
 Python GUI 라이브러리 tkinter 내용입니다. 
 
-https://m.blog.naver.com/skshpapa80/223766949375
+https://raycho-dev.tistory.com/38
