@@ -1,0 +1,4 @@
+﻿room_number,tenant_name,deposit,monthly_rent,is_occupied,electricity_kwh,water_m3,electricity_fee,water_fee,base_maintenance,total_maintenance,total_invoice
+101,,10000000,850000,0,320,18,38400.0,15300.0,0,53700.0,53700.0
+102,파이썬 스튜디오,15000000,1000000,1,0,0,0.0,0.0,50000,50000.0,1050000.0
+201,코드 카페,20000000,1500000,1,540,32,64800.0,27200.0,50000,142000.0,1642000.0
