@@ -28,3 +28,7 @@ Python GUI
 * SQLite DB 연동 및 입주사 정보 CRUD 구현하기 https://raycho-dev.tistory.com/169
 * Pandas로 관리비·공과금 자동 계산 및 임대 수익 분석하기 https://raycho-dev.tistory.com/170
 * Streamlit으로 10분 만에 웹 대시보드 완성하기 (완결) https://raycho-dev.tistory.com/171
+
+"Exif Tag 사진 정리"
+* Python으로 사진 EXIF 정보를 활용하여 날짜별로 자동 분류하기 https://raycho-dev.tistory.com/181
+
